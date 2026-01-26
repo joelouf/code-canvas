@@ -13,11 +13,11 @@
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "connect-session-sequelize": "^8.0.4",
+    "connect-session-sequelize": "^8.0.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "express-handlebars": "^8.0.4",
-    "express-session": "^1.18.2",
+    "express-session": "^1.19.0",
     "mysql2": "^3.16.1",
     "sequelize": "^6.37.7"
   }
